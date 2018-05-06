@@ -1,4 +1,4 @@
-## Changelog - v2.4-dev
+## Changelog - v2.4
 
 Welcome! We finally added a `changelog.md` file - so basically this is the first change to be mentioned in this file.
  
